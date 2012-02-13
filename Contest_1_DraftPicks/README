@@ -2,5 +2,5 @@ This is my solution to the ACSL Contest #1 (Draft Picks) Senior Division 72 hour
 
 It's a fairly straightforward command line Java program which prompts for the expected data, calculates the requested values, and displays it to the user.
 
-The original problem is availabe here:
+The original problem is available here:
 http://teacherweb.com/MD/ReservoirHighSchool/Hahne/acsl_draft-picks_1_sr_Student.pdf
